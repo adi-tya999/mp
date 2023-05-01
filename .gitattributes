@@ -1,0 +1,9 @@
+*.sln eol=crlf
+*.csproj eol=crlf
+*.asset eol=lf
+*.meta eol=lf
+*.mat eol=lf
+*.anim eol=lf
+*.unity eol=lf
+*.controller eol=lf
+*.physicMaterial eol=lf

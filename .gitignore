@@ -1,0 +1,13 @@
+/Temp
+/Library
+/obj
+/.vs
+/*.sln
+/*.csproj
+/*.csproj
+*.user
+*.userprefs
+*.blend1
+*.blend1.meta
+/.git/.COMMIT_EDITMSG.swp
+/.git/COMMIT_EDITMSG
